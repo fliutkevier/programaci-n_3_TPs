@@ -1,0 +1,11 @@
+C:\Drive\Things\UTN\TUP 2024\Materias Segundo Cuatri\Prog3\Trabajos Practicos\TrabajoPractico1\Tp1_Solution\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Drive\Things\UTN\TUP 2024\Materias Segundo Cuatri\Prog3\Trabajos Practicos\TrabajoPractico1\Tp1_Solution\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Drive\Things\UTN\TUP 2024\Materias Segundo Cuatri\Prog3\Trabajos Practicos\TrabajoPractico1\Tp1_Solution\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Drive\Things\UTN\TUP 2024\Materias Segundo Cuatri\Prog3\Trabajos Practicos\TrabajoPractico1\Tp1_Solution\Ejercicio\obj\Debug\Ejercicio.csproj.AssemblyReference.cache
+C:\Drive\Things\UTN\TUP 2024\Materias Segundo Cuatri\Prog3\Trabajos Practicos\TrabajoPractico1\Tp1_Solution\Ejercicio\obj\Debug\Ejercicio.frmEjercicio1.resources
+C:\Drive\Things\UTN\TUP 2024\Materias Segundo Cuatri\Prog3\Trabajos Practicos\TrabajoPractico1\Tp1_Solution\Ejercicio\obj\Debug\Ejercicio.frmPrincipal.resources
+C:\Drive\Things\UTN\TUP 2024\Materias Segundo Cuatri\Prog3\Trabajos Practicos\TrabajoPractico1\Tp1_Solution\Ejercicio\obj\Debug\Ejercicio.Properties.Resources.resources
+C:\Drive\Things\UTN\TUP 2024\Materias Segundo Cuatri\Prog3\Trabajos Practicos\TrabajoPractico1\Tp1_Solution\Ejercicio\obj\Debug\Ejercicio.csproj.GenerateResource.cache
+C:\Drive\Things\UTN\TUP 2024\Materias Segundo Cuatri\Prog3\Trabajos Practicos\TrabajoPractico1\Tp1_Solution\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Drive\Things\UTN\TUP 2024\Materias Segundo Cuatri\Prog3\Trabajos Practicos\TrabajoPractico1\Tp1_Solution\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Drive\Things\UTN\TUP 2024\Materias Segundo Cuatri\Prog3\Trabajos Practicos\TrabajoPractico1\Tp1_Solution\Ejercicio\obj\Debug\Ejercicio.pdb
