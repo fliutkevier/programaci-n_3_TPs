@@ -37,6 +37,7 @@ namespace Ejercicio
             this.btnPasarTodos = new System.Windows.Forms.Button();
             this.btnPasarNombre = new System.Windows.Forms.Button();
             this.lstIzquierda = new System.Windows.Forms.ListBox();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.SuspendLayout();
             // 
             // btnCerrar
@@ -150,5 +151,6 @@ namespace Ejercicio
         private System.Windows.Forms.Button btnPasarTodos;
         private System.Windows.Forms.Button btnPasarNombre;
         private System.Windows.Forms.ListBox lstIzquierda;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
