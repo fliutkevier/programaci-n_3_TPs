@@ -29,14 +29,14 @@
         private void InitializeComponent()
         {
             this.gbIngresoDeDatos = new System.Windows.Forms.GroupBox();
-            this.gbElementos = new System.Windows.Forms.GroupBox();
-            this.lblNombre = new System.Windows.Forms.Label();
-            this.lblApellido = new System.Windows.Forms.Label();
-            this.tbxNombre = new System.Windows.Forms.TextBox();
-            this.tbxApellido = new System.Windows.Forms.TextBox();
             this.btnAgregar = new System.Windows.Forms.Button();
-            this.lbElementos = new System.Windows.Forms.ListBox();
+            this.tbxApellido = new System.Windows.Forms.TextBox();
+            this.tbxNombre = new System.Windows.Forms.TextBox();
+            this.lblApellido = new System.Windows.Forms.Label();
+            this.lblNombre = new System.Windows.Forms.Label();
+            this.gbElementos = new System.Windows.Forms.GroupBox();
             this.btnBorrar = new System.Windows.Forms.Button();
+            this.lbElementos = new System.Windows.Forms.ListBox();
             this.gbIngresoDeDatos.SuspendLayout();
             this.gbElementos.SuspendLayout();
             this.SuspendLayout();
@@ -56,16 +56,42 @@
             this.gbIngresoDeDatos.Text = "Ingreso de Datos";
             this.gbIngresoDeDatos.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
-            // gbElementos
+            // btnAgregar
             // 
-            this.gbElementos.Controls.Add(this.btnBorrar);
-            this.gbElementos.Controls.Add(this.lbElementos);
-            this.gbElementos.Location = new System.Drawing.Point(329, 12);
-            this.gbElementos.Name = "gbElementos";
-            this.gbElementos.Size = new System.Drawing.Size(278, 452);
-            this.gbElementos.TabIndex = 2;
-            this.gbElementos.TabStop = false;
-            this.gbElementos.Text = "Elementos";
+            this.btnAgregar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAgregar.Location = new System.Drawing.Point(115, 283);
+            this.btnAgregar.Name = "btnAgregar";
+            this.btnAgregar.Size = new System.Drawing.Size(107, 41);
+            this.btnAgregar.TabIndex = 4;
+            this.btnAgregar.Text = "Agregar";
+            this.btnAgregar.UseVisualStyleBackColor = true;
+            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
+            // 
+            // tbxApellido
+            // 
+            this.tbxApellido.Location = new System.Drawing.Point(115, 222);
+            this.tbxApellido.MaxLength = 30;
+            this.tbxApellido.Name = "tbxApellido";
+            this.tbxApellido.Size = new System.Drawing.Size(152, 20);
+            this.tbxApellido.TabIndex = 3;
+            // 
+            // tbxNombre
+            // 
+            this.tbxNombre.Location = new System.Drawing.Point(115, 191);
+            this.tbxNombre.MaxLength = 30;
+            this.tbxNombre.Name = "tbxNombre";
+            this.tbxNombre.Size = new System.Drawing.Size(152, 20);
+            this.tbxNombre.TabIndex = 2;
+            // 
+            // lblApellido
+            // 
+            this.lblApellido.AutoSize = true;
+            this.lblApellido.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblApellido.Location = new System.Drawing.Point(6, 222);
+            this.lblApellido.Name = "lblApellido";
+            this.lblApellido.Size = new System.Drawing.Size(78, 20);
+            this.lblApellido.TabIndex = 1;
+            this.lblApellido.Text = "Apellido:";
             // 
             // lblNombre
             // 
@@ -78,48 +104,16 @@
             this.lblNombre.Text = "Nombre:";
             this.lblNombre.Click += new System.EventHandler(this.lblNombre_Click);
             // 
-            // lblApellido
+            // gbElementos
             // 
-            this.lblApellido.AutoSize = true;
-            this.lblApellido.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblApellido.Location = new System.Drawing.Point(6, 222);
-            this.lblApellido.Name = "lblApellido";
-            this.lblApellido.Size = new System.Drawing.Size(78, 20);
-            this.lblApellido.TabIndex = 1;
-            this.lblApellido.Text = "Apellido:";
-            // 
-            // tbxNombre
-            // 
-            this.tbxNombre.Location = new System.Drawing.Point(115, 191);
-            this.tbxNombre.Name = "tbxNombre";
-            this.tbxNombre.Size = new System.Drawing.Size(152, 20);
-            this.tbxNombre.TabIndex = 2;
-            // 
-            // tbxApellido
-            // 
-            this.tbxApellido.Location = new System.Drawing.Point(115, 222);
-            this.tbxApellido.Name = "tbxApellido";
-            this.tbxApellido.Size = new System.Drawing.Size(152, 20);
-            this.tbxApellido.TabIndex = 3;
-            // 
-            // btnAgregar
-            // 
-            this.btnAgregar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAgregar.Location = new System.Drawing.Point(115, 283);
-            this.btnAgregar.Name = "btnAgregar";
-            this.btnAgregar.Size = new System.Drawing.Size(107, 41);
-            this.btnAgregar.TabIndex = 4;
-            this.btnAgregar.Text = "Agregar";
-            this.btnAgregar.UseVisualStyleBackColor = true;
-            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
-            // 
-            // lbElementos
-            // 
-            this.lbElementos.FormattingEnabled = true;
-            this.lbElementos.Location = new System.Drawing.Point(22, 30);
-            this.lbElementos.Name = "lbElementos";
-            this.lbElementos.Size = new System.Drawing.Size(241, 329);
-            this.lbElementos.TabIndex = 0;
+            this.gbElementos.Controls.Add(this.btnBorrar);
+            this.gbElementos.Controls.Add(this.lbElementos);
+            this.gbElementos.Location = new System.Drawing.Point(329, 12);
+            this.gbElementos.Name = "gbElementos";
+            this.gbElementos.Size = new System.Drawing.Size(278, 452);
+            this.gbElementos.TabIndex = 2;
+            this.gbElementos.TabStop = false;
+            this.gbElementos.Text = "Elementos";
             // 
             // btnBorrar
             // 
@@ -130,7 +124,15 @@
             this.btnBorrar.TabIndex = 1;
             this.btnBorrar.Text = "Borrar";
             this.btnBorrar.UseVisualStyleBackColor = true;
-            this.btnBorrar.Click += new System.EventHandler(this.button1_Click);
+            this.btnBorrar.Click += new System.EventHandler(this.btnBorrar_Click);
+            // 
+            // lbElementos
+            // 
+            this.lbElementos.FormattingEnabled = true;
+            this.lbElementos.Location = new System.Drawing.Point(22, 30);
+            this.lbElementos.Name = "lbElementos";
+            this.lbElementos.Size = new System.Drawing.Size(241, 329);
+            this.lbElementos.TabIndex = 0;
             // 
             // frmEjercicio2
             // 

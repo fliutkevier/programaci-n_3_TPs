@@ -74,6 +74,7 @@ namespace Ejercicio
             // tbxNombre
             // 
             this.tbxNombre.Location = new System.Drawing.Point(183, 54);
+            this.tbxNombre.MaxLength = 30;
             this.tbxNombre.Name = "tbxNombre";
             this.tbxNombre.Size = new System.Drawing.Size(252, 20);
             this.tbxNombre.TabIndex = 3;

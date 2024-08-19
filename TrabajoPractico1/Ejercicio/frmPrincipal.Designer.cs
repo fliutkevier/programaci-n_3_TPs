@@ -35,6 +35,7 @@ namespace Ejercicio
             this.lblIntegrantes = new System.Windows.Forms.Label();
             this.lblIntegrante1 = new System.Windows.Forms.Label();
             this.lblIntegrante2 = new System.Windows.Forms.Label();
+            this.lblIntegrante3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnEjercicio1
@@ -97,11 +98,22 @@ namespace Ejercicio
             this.lblIntegrante2.Text = "-Vitelli Sevillano Ignacio E.";
             this.lblIntegrante2.Click += new System.EventHandler(this.label1_Click);
             // 
+            // lblIntegrante3
+            // 
+            this.lblIntegrante3.AutoSize = true;
+            this.lblIntegrante3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Italic);
+            this.lblIntegrante3.Location = new System.Drawing.Point(162, 162);
+            this.lblIntegrante3.Name = "lblIntegrante3";
+            this.lblIntegrante3.Size = new System.Drawing.Size(141, 16);
+            this.lblIntegrante3.TabIndex = 8;
+            this.lblIntegrante3.Text = "-Vercellini Maria Belen";
+            // 
             // frmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(545, 288);
+            this.Controls.Add(this.lblIntegrante3);
             this.Controls.Add(this.lblIntegrante2);
             this.Controls.Add(this.lblIntegrante1);
             this.Controls.Add(this.lblIntegrantes);
@@ -128,6 +140,7 @@ namespace Ejercicio
         private System.Windows.Forms.Label lblIntegrantes;
         private System.Windows.Forms.Label lblIntegrante1;
         private System.Windows.Forms.Label lblIntegrante2;
+        private System.Windows.Forms.Label lblIntegrante3;
     }
 }
 

@@ -39,7 +39,6 @@ namespace Ejercicio
                 lbElementos.Items.Add(tbxApellido.Text + ", " + tbxNombre.Text);
                 tbxApellido.Text = "";
                 tbxNombre.Text = "";
-
             }
             else
             {
@@ -47,9 +46,17 @@ namespace Ejercicio
 
             }
         }
-        private void button1_Click(object sender, EventArgs e)
-        {
 
+        private void btnBorrar_Click(object sender, EventArgs e)
+        {
+            if (lbElementos.SelectedItem != null)
+            {
+                lbElementos.Items.Remove(lbElementos.SelectedItem);
+            }
+            else
+            {
+                MessageBox.Show("Debe seleccionar el nombre a borrar", "Warning");
+            }
         }
     }
 }
