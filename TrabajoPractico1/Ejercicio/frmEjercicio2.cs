@@ -17,19 +17,10 @@ namespace Ejercicio
             InitializeComponent();
         }
 
-        private void lblIngresoDatos_Click(object sender, EventArgs e)
+        private void LimpiarTextBox()
         {
-
-        }
-
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblNombre_Click(object sender, EventArgs e)
-        {
-
+            tbxApellido.Text = "";
+            tbxNombre.Text = "";
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
@@ -37,13 +28,12 @@ namespace Ejercicio
             if (tbxApellido.Text.Trim().Length != 0 && tbxNombre.Text.Trim().Length != 0)
             {
                 lbElementos.Items.Add(tbxApellido.Text + ", " + tbxNombre.Text);
-                tbxApellido.Text = "";
-                tbxNombre.Text = "";
+                LimpiarTextBox();
             }
             else
             {
                 MessageBox.Show("Ingrese Nombre y Apellido","Warning");
-
+                LimpiarTextBox();
             }
         }
 

@@ -54,7 +54,6 @@
             this.gbIngresoDeDatos.TabIndex = 1;
             this.gbIngresoDeDatos.TabStop = false;
             this.gbIngresoDeDatos.Text = "Ingreso de Datos";
-            this.gbIngresoDeDatos.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // btnAgregar
             // 
@@ -102,7 +101,6 @@
             this.lblNombre.Size = new System.Drawing.Size(76, 20);
             this.lblNombre.TabIndex = 0;
             this.lblNombre.Text = "Nombre:";
-            this.lblNombre.Click += new System.EventHandler(this.lblNombre_Click);
             // 
             // gbElementos
             // 
@@ -132,6 +130,7 @@
             this.lbElementos.Location = new System.Drawing.Point(22, 30);
             this.lbElementos.Name = "lbElementos";
             this.lbElementos.Size = new System.Drawing.Size(241, 329);
+            this.lbElementos.Sorted = true;
             this.lbElementos.TabIndex = 0;
             // 
             // frmEjercicio2
@@ -141,7 +140,10 @@
             this.ClientSize = new System.Drawing.Size(625, 476);
             this.Controls.Add(this.gbElementos);
             this.Controls.Add(this.gbIngresoDeDatos);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "frmEjercicio2";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Ejercicio 2";
             this.gbIngresoDeDatos.ResumeLayout(false);
             this.gbIngresoDeDatos.PerformLayout();

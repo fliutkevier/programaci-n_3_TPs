@@ -33,10 +33,10 @@ namespace Ejercicio
             this.btnAgregar = new System.Windows.Forms.Button();
             this.lblIngreseNombre = new System.Windows.Forms.Label();
             this.tbxNombre = new System.Windows.Forms.TextBox();
-            this.lstDerecha = new System.Windows.Forms.ListBox();
+            this.lbDerecha = new System.Windows.Forms.ListBox();
             this.btnPasarTodos = new System.Windows.Forms.Button();
             this.btnPasarNombre = new System.Windows.Forms.Button();
-            this.lstIzquierda = new System.Windows.Forms.ListBox();
+            this.lbIzquierda = new System.Windows.Forms.ListBox();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.SuspendLayout();
             // 
@@ -79,13 +79,13 @@ namespace Ejercicio
             this.tbxNombre.Size = new System.Drawing.Size(252, 20);
             this.tbxNombre.TabIndex = 3;
             // 
-            // lstDerecha
+            // lbDerecha
             // 
-            this.lstDerecha.FormattingEnabled = true;
-            this.lstDerecha.Location = new System.Drawing.Point(372, 116);
-            this.lstDerecha.Name = "lstDerecha";
-            this.lstDerecha.Size = new System.Drawing.Size(192, 238);
-            this.lstDerecha.TabIndex = 5;
+            this.lbDerecha.FormattingEnabled = true;
+            this.lbDerecha.Location = new System.Drawing.Point(372, 116);
+            this.lbDerecha.Name = "lbDerecha";
+            this.lbDerecha.Size = new System.Drawing.Size(192, 238);
+            this.lbDerecha.TabIndex = 5;
             // 
             // btnPasarTodos
             // 
@@ -109,13 +109,13 @@ namespace Ejercicio
             this.btnPasarNombre.UseVisualStyleBackColor = true;
             this.btnPasarNombre.Click += new System.EventHandler(this.btnPasarNombre_Click);
             // 
-            // lstIzquierda
+            // lbIzquierda
             // 
-            this.lstIzquierda.FormattingEnabled = true;
-            this.lstIzquierda.Location = new System.Drawing.Point(12, 116);
-            this.lstIzquierda.Name = "lstIzquierda";
-            this.lstIzquierda.Size = new System.Drawing.Size(192, 238);
-            this.lstIzquierda.TabIndex = 8;
+            this.lbIzquierda.FormattingEnabled = true;
+            this.lbIzquierda.Location = new System.Drawing.Point(12, 116);
+            this.lbIzquierda.Name = "lbIzquierda";
+            this.lbIzquierda.Size = new System.Drawing.Size(192, 238);
+            this.lbIzquierda.TabIndex = 8;
             // 
             // frmEjercicio1
             // 
@@ -123,10 +123,10 @@ namespace Ejercicio
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(586, 450);
-            this.Controls.Add(this.lstIzquierda);
+            this.Controls.Add(this.lbIzquierda);
             this.Controls.Add(this.btnPasarNombre);
             this.Controls.Add(this.btnPasarTodos);
-            this.Controls.Add(this.lstDerecha);
+            this.Controls.Add(this.lbDerecha);
             this.Controls.Add(this.tbxNombre);
             this.Controls.Add(this.lblIngreseNombre);
             this.Controls.Add(this.btnAgregar);
@@ -148,10 +148,10 @@ namespace Ejercicio
         private System.Windows.Forms.Button btnAgregar;
         private System.Windows.Forms.Label lblIngreseNombre;
         private System.Windows.Forms.TextBox tbxNombre;
-        private System.Windows.Forms.ListBox lstDerecha;
+        private System.Windows.Forms.ListBox lbDerecha;
         private System.Windows.Forms.Button btnPasarTodos;
         private System.Windows.Forms.Button btnPasarNombre;
-        private System.Windows.Forms.ListBox lstIzquierda;
+        private System.Windows.Forms.ListBox lbIzquierda;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }

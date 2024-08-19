@@ -29,7 +29,7 @@ namespace Ejercicio
             if(tbxNombre.Text.Trim() != string.Empty)
             {
                 //reviso los elementos de la lista izquierda.
-                foreach (string nombre in lstIzquierda.Items)
+                foreach (string nombre in lbIzquierda.Items)
                 {
                     //valido si son iguales ambas cadenas (la cargada y las existentes) pasasandolas a minusculas.
                     if(string.Equals(nombre.ToLower(), tbxNombre.Text.ToLower()))
@@ -42,7 +42,7 @@ namespace Ejercicio
                 if(!existe)
                 {
                     //si no existe en la lista, lo agrega.
-                    lstIzquierda.Items.Add(tbxNombre.Text);
+                    lbIzquierda.Items.Add(tbxNombre.Text);
                 }
             }
             else
@@ -54,11 +54,11 @@ namespace Ejercicio
 
         private void btnPasarNombre_Click(object sender, EventArgs e)
         {
-            if(lstIzquierda.SelectedItem != null)
+            if(lbIzquierda.SelectedItem != null)
             {
                 //Si se selecciona un nombre es pasado a la lista derecha y se elimina de la izquierda.
-                lstDerecha.Items.Add(lstIzquierda.SelectedItem);
-                lstIzquierda.Items.Remove(lstIzquierda.SelectedItem);
+                lbDerecha.Items.Add(lbIzquierda.SelectedItem);
+                lbIzquierda.Items.Remove(lbIzquierda.SelectedItem);
             }
             else
             {
@@ -68,14 +68,14 @@ namespace Ejercicio
 
         private void btnPasarTodos_Click(object sender, EventArgs e)
         {
-            if(lstIzquierda.Items.Count != 0)
+            if(lbIzquierda.Items.Count != 0)
             {
                 //si hay nombres cargados, los pasa a la lista derecha.
-                foreach (string nombre in lstIzquierda.Items)
+                foreach (string nombre in lbIzquierda.Items)
                 {
-                    lstDerecha.Items.Add(nombre);
+                    lbDerecha.Items.Add(nombre);
                 }
-                lstIzquierda.Items.Clear();
+                lbIzquierda.Items.Clear();
             }
             else
             {

@@ -96,7 +96,6 @@ namespace Ejercicio
             this.lblIntegrante2.Size = new System.Drawing.Size(164, 16);
             this.lblIntegrante2.TabIndex = 7;
             this.lblIntegrante2.Text = "-Vitelli Sevillano Ignacio E.";
-            this.lblIntegrante2.Click += new System.EventHandler(this.label1_Click);
             // 
             // lblIntegrante3
             // 
@@ -126,7 +125,6 @@ namespace Ejercicio
             this.Name = "frmPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Formulario Principal";
-            this.Load += new System.EventHandler(this.frmPrincipal_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
