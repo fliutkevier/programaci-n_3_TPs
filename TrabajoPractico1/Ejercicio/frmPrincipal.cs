@@ -28,5 +28,11 @@ namespace Ejercicio
             frmEjercicio2 frm = new frmEjercicio2();
             frm.ShowDialog();
         }
+
+        private void btnEjercicio3_Click(object sender, EventArgs e)
+        {
+            frmEjercicio3 frm = new frmEjercicio3();
+            frm.ShowDialog();
+        }
     }
 }

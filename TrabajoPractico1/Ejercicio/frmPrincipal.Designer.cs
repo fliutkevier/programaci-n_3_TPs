@@ -37,6 +37,7 @@ namespace Ejercicio
             this.lblIntegrante2 = new System.Windows.Forms.Label();
             this.lblIntegrante3 = new System.Windows.Forms.Label();
             this.lblIntegrante4 = new System.Windows.Forms.Label();
+            this.lblIntegrante5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnEjercicio1
@@ -67,6 +68,7 @@ namespace Ejercicio
             this.btnEjercicio3.TabIndex = 4;
             this.btnEjercicio3.Text = "EJERCICIO 3";
             this.btnEjercicio3.UseVisualStyleBackColor = true;
+            this.btnEjercicio3.Click += new System.EventHandler(this.btnEjercicio3_Click);
             // 
             // lblIntegrantes
             // 
@@ -118,11 +120,22 @@ namespace Ejercicio
             this.lblIntegrante4.TabIndex = 9;
             this.lblIntegrante4.Text = "-Quiroz Valentin";
             // 
+            // lblIntegrante5
+            // 
+            this.lblIntegrante5.AutoSize = true;
+            this.lblIntegrante5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblIntegrante5.Location = new System.Drawing.Point(162, 194);
+            this.lblIntegrante5.Name = "lblIntegrante5";
+            this.lblIntegrante5.Size = new System.Drawing.Size(126, 16);
+            this.lblIntegrante5.TabIndex = 10;
+            this.lblIntegrante5.Text = "-Santa Cruz, Victoria";
+            // 
             // frmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(545, 288);
+            this.Controls.Add(this.lblIntegrante5);
             this.Controls.Add(this.lblIntegrante4);
             this.Controls.Add(this.lblIntegrante3);
             this.Controls.Add(this.lblIntegrante2);
@@ -152,6 +165,7 @@ namespace Ejercicio
         private System.Windows.Forms.Label lblIntegrante2;
         private System.Windows.Forms.Label lblIntegrante3;
         private System.Windows.Forms.Label lblIntegrante4;
+        private System.Windows.Forms.Label lblIntegrante5;
     }
 }
 
