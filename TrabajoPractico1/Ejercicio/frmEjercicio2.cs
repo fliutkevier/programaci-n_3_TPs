@@ -45,12 +45,24 @@ namespace Ejercicio
                     LimpiarTextBox();
                 }
             }
-            
-            else
+
+            else if(tbxNombre.Text.Trim().Length == 0 && tbxApellido.Text.Trim().Length == 0)
             {
-                MessageBox.Show("Ingrese Nombre y Apellido","Warning");
+                MessageBox.Show("No ingresó Nombre y Apellido", "Warning");
                 LimpiarTextBox();
             }
+            else if (tbxNombre.Text.Trim().Length == 0)
+            {
+                MessageBox.Show("No ingresó Nombre", "Warning");
+                LimpiarTextBox();
+            }
+            else if (tbxApellido.Text.Trim().Length == 0)
+            {
+                MessageBox.Show("No ingresó Apellido", "Warning");
+                LimpiarTextBox();
+            }
+
+            
         }
 
         private void btnBorrar_Click(object sender, EventArgs e)
