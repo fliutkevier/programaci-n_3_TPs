@@ -36,6 +36,7 @@ namespace Ejercicio
             this.lblIntegrante1 = new System.Windows.Forms.Label();
             this.lblIntegrante2 = new System.Windows.Forms.Label();
             this.lblIntegrante3 = new System.Windows.Forms.Label();
+            this.lblIntegrante4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnEjercicio1
@@ -107,11 +108,22 @@ namespace Ejercicio
             this.lblIntegrante3.TabIndex = 8;
             this.lblIntegrante3.Text = "-Vercellini Maria Belen";
             // 
+            // lblIntegrante4
+            // 
+            this.lblIntegrante4.AutoSize = true;
+            this.lblIntegrante4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblIntegrante4.Location = new System.Drawing.Point(162, 178);
+            this.lblIntegrante4.Name = "lblIntegrante4";
+            this.lblIntegrante4.Size = new System.Drawing.Size(100, 16);
+            this.lblIntegrante4.TabIndex = 9;
+            this.lblIntegrante4.Text = "-Quiroz Valentin";
+            // 
             // frmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(545, 288);
+            this.Controls.Add(this.lblIntegrante4);
             this.Controls.Add(this.lblIntegrante3);
             this.Controls.Add(this.lblIntegrante2);
             this.Controls.Add(this.lblIntegrante1);
@@ -139,6 +151,7 @@ namespace Ejercicio
         private System.Windows.Forms.Label lblIntegrante1;
         private System.Windows.Forms.Label lblIntegrante2;
         private System.Windows.Forms.Label lblIntegrante3;
+        private System.Windows.Forms.Label lblIntegrante4;
     }
 }
 

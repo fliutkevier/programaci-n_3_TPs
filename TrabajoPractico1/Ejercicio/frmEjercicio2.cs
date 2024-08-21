@@ -27,12 +27,15 @@ namespace Ejercicio
         {
             if (tbxApellido.Text.Trim().Length != 0 && tbxNombre.Text.Trim().Length != 0)
             { bool existe = false;
-                string nombreCompleto = tbxApellido.Text + ", " + tbxNombre.Text;
+                string nombreCompleto = tbxApellido.Text.Trim() + ", " + tbxNombre.Text.Trim();
                 foreach (string nombre in lbElementos.Items)
                 {
+                    nombre.Trim();
+                    nombre.TrimStart();
                     if (string.Equals(nombre.ToUpper(), nombreCompleto.ToUpper()))
                     {
                         MessageBox.Show("Nombre ya existente, ingrese otro", "Warning");
+                        LimpiarTextBox();
                         existe = true;
                     }
                 }
@@ -42,6 +45,7 @@ namespace Ejercicio
                     LimpiarTextBox();
                 }
             }
+            
             else
             {
                 MessageBox.Show("Ingrese Nombre y Apellido","Warning");
