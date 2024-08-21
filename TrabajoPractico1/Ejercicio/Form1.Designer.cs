@@ -29,11 +29,11 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.rbFemenino = new System.Windows.Forms.RadioButton();
             this.rbMasculino = new System.Windows.Forms.RadioButton();
+            this.rbFemenino = new System.Windows.Forms.RadioButton();
             this.gbEstadoCivil = new System.Windows.Forms.GroupBox();
-            this.rbCasado = new System.Windows.Forms.RadioButton();
             this.rbSoltero = new System.Windows.Forms.RadioButton();
+            this.rbCasado = new System.Windows.Forms.RadioButton();
             this.clbProfesion = new System.Windows.Forms.CheckedListBox();
             this.btnMostrar = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -52,17 +52,6 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Sexo";
             // 
-            // rbFemenino
-            // 
-            this.rbFemenino.AutoSize = true;
-            this.rbFemenino.Location = new System.Drawing.Point(27, 29);
-            this.rbFemenino.Name = "rbFemenino";
-            this.rbFemenino.Size = new System.Drawing.Size(71, 17);
-            this.rbFemenino.TabIndex = 0;
-            this.rbFemenino.TabStop = true;
-            this.rbFemenino.Text = "Femenino";
-            this.rbFemenino.UseVisualStyleBackColor = true;
-            // 
             // rbMasculino
             // 
             this.rbMasculino.AutoSize = true;
@@ -70,9 +59,20 @@
             this.rbMasculino.Name = "rbMasculino";
             this.rbMasculino.Size = new System.Drawing.Size(73, 17);
             this.rbMasculino.TabIndex = 1;
-            this.rbMasculino.TabStop = true;
             this.rbMasculino.Text = "Masculino";
             this.rbMasculino.UseVisualStyleBackColor = true;
+            // 
+            // rbFemenino
+            // 
+            this.rbFemenino.AutoSize = true;
+            this.rbFemenino.Checked = true;
+            this.rbFemenino.Location = new System.Drawing.Point(27, 29);
+            this.rbFemenino.Name = "rbFemenino";
+            this.rbFemenino.Size = new System.Drawing.Size(71, 17);
+            this.rbFemenino.TabIndex = 0;
+            this.rbFemenino.TabStop = true;
+            this.rbFemenino.Text = "Femenino";
+            this.rbFemenino.UseVisualStyleBackColor = true;
             // 
             // gbEstadoCivil
             // 
@@ -85,9 +85,20 @@
             this.gbEstadoCivil.TabStop = false;
             this.gbEstadoCivil.Text = "Estado Civil";
             // 
+            // rbSoltero
+            // 
+            this.rbSoltero.AutoSize = true;
+            this.rbSoltero.Location = new System.Drawing.Point(33, 52);
+            this.rbSoltero.Name = "rbSoltero";
+            this.rbSoltero.Size = new System.Drawing.Size(58, 17);
+            this.rbSoltero.TabIndex = 2;
+            this.rbSoltero.Text = "Soltero";
+            this.rbSoltero.UseVisualStyleBackColor = true;
+            // 
             // rbCasado
             // 
             this.rbCasado.AutoSize = true;
+            this.rbCasado.Checked = true;
             this.rbCasado.Location = new System.Drawing.Point(33, 29);
             this.rbCasado.Name = "rbCasado";
             this.rbCasado.Size = new System.Drawing.Size(61, 17);
@@ -96,19 +107,9 @@
             this.rbCasado.Text = "Casado";
             this.rbCasado.UseVisualStyleBackColor = true;
             // 
-            // rbSoltero
-            // 
-            this.rbSoltero.AutoSize = true;
-            this.rbSoltero.Location = new System.Drawing.Point(33, 52);
-            this.rbSoltero.Name = "rbSoltero";
-            this.rbSoltero.Size = new System.Drawing.Size(58, 17);
-            this.rbSoltero.TabIndex = 2;
-            this.rbSoltero.TabStop = true;
-            this.rbSoltero.Text = "Soltero";
-            this.rbSoltero.UseVisualStyleBackColor = true;
-            // 
             // clbProfesion
             // 
+            this.clbProfesion.CheckOnClick = true;
             this.clbProfesion.FormattingEnabled = true;
             this.clbProfesion.Items.AddRange(new object[] {
             "Data Entry",
@@ -148,7 +149,10 @@
             this.Controls.Add(this.clbProfesion);
             this.Controls.Add(this.gbEstadoCivil);
             this.Controls.Add(this.groupBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "frmEjercicio3";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Ejercicio 3";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
