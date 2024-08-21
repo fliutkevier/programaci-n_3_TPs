@@ -26,9 +26,21 @@ namespace Ejercicio
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             if (tbxApellido.Text.Trim().Length != 0 && tbxNombre.Text.Trim().Length != 0)
-            {
-                lbElementos.Items.Add(tbxApellido.Text + ", " + tbxNombre.Text);
-                LimpiarTextBox();
+            { bool existe = false;
+                string nombreCompleto = tbxApellido.Text + ", " + tbxNombre.Text;
+                foreach (string nombre in lbElementos.Items)
+                {
+                    if (string.Equals(nombre.ToUpper(), nombreCompleto.ToUpper()))
+                    {
+                        MessageBox.Show("Nombre ya existente, ingrese otro", "Warning");
+                        existe = true;
+                    }
+                }
+                if (!existe)
+                {
+                    lbElementos.Items.Add(tbxApellido.Text + ", " + tbxNombre.Text);
+                    LimpiarTextBox();
+                }
             }
             else
             {

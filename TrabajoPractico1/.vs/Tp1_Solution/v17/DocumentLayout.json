@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\frmejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|E:\\Estudios\\Progamacion 3\\TP1\\TrabajoPractico1\\ejercicio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|E:\\Estudios\\Progamacion 3\\TP1\\TrabajoPractico1\\ejercicio\\frmejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\frmejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|E:\\Estudios\\Progamacion 3\\TP1\\TrabajoPractico1\\ejercicio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|E:\\Estudios\\Progamacion 3\\TP1\\TrabajoPractico1\\ejercicio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "frmEjercicio1.cs",
+              "DocumentMoniker": "E:\\Estudios\\Progamacion 3\\TP1\\TrabajoPractico1\\Ejercicio\\frmEjercicio1.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\frmEjercicio1.cs",
+              "ToolTip": "E:\\Estudios\\Progamacion 3\\TP1\\TrabajoPractico1\\Ejercicio\\frmEjercicio1.cs",
+              "RelativeToolTip": "Ejercicio\\frmEjercicio1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wCIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T22:05:49.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmEjercicio2.cs",
+              "DocumentMoniker": "E:\\Estudios\\Progamacion 3\\TP1\\TrabajoPractico1\\Ejercicio\\frmEjercicio2.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\frmEjercicio2.cs",
+              "ToolTip": "E:\\Estudios\\Progamacion 3\\TP1\\TrabajoPractico1\\Ejercicio\\frmEjercicio2.cs",
+              "RelativeToolTip": "Ejercicio\\frmEjercicio2.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvyIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:40:50.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmPrincipal.cs",
               "DocumentMoniker": "E:\\Estudios\\Progamacion 3\\TP1\\TrabajoPractico1\\Ejercicio\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "Ejercicio\\frmPrincipal.cs",
@@ -50,19 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmEjercicio1.cs",
-              "DocumentMoniker": "E:\\Estudios\\Progamacion 3\\TP1\\TrabajoPractico1\\Ejercicio\\frmEjercicio1.cs",
-              "RelativeDocumentMoniker": "Ejercicio\\frmEjercicio1.cs",
-              "ToolTip": "E:\\Estudios\\Progamacion 3\\TP1\\TrabajoPractico1\\Ejercicio\\frmEjercicio1.cs",
-              "RelativeToolTip": "Ejercicio\\frmEjercicio1.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwB8AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T22:05:49.778Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmEjercicio1.cs [Dise\u00F1o]",
               "DocumentMoniker": "E:\\Estudios\\Progamacion 3\\TP1\\TrabajoPractico1\\Ejercicio\\frmEjercicio1.cs",
               "RelativeDocumentMoniker": "Ejercicio\\frmEjercicio1.cs",
@@ -73,20 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmEjercicio2.cs",
-              "DocumentMoniker": "E:\\Estudios\\Progamacion 3\\TP1\\TrabajoPractico1\\Ejercicio\\frmEjercicio2.cs",
-              "RelativeDocumentMoniker": "Ejercicio\\frmEjercicio2.cs",
-              "ToolTip": "E:\\Estudios\\Progamacion 3\\TP1\\TrabajoPractico1\\Ejercicio\\frmEjercicio2.cs",
-              "RelativeToolTip": "Ejercicio\\frmEjercicio2.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAUwCgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T21:40:50.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "frmEjercicio2.cs [Dise\u00F1o]",
               "DocumentMoniker": "E:\\Estudios\\Progamacion 3\\TP1\\TrabajoPractico1\\Ejercicio\\frmEjercicio2.cs",
               "RelativeDocumentMoniker": "Ejercicio\\frmEjercicio2.cs",
@@ -97,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "frmPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "E:\\Estudios\\Progamacion 3\\TP1\\TrabajoPractico1\\Ejercicio\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "Ejercicio\\frmPrincipal.cs",
