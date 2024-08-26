@@ -114,6 +114,7 @@ namespace Ejercicio
             this.lbIzquierda.FormattingEnabled = true;
             this.lbIzquierda.Location = new System.Drawing.Point(12, 116);
             this.lbIzquierda.Name = "lbIzquierda";
+            this.lbIzquierda.SelectionMode = System.Windows.Forms.SelectionMode.MultiExtended;
             this.lbIzquierda.Size = new System.Drawing.Size(192, 238);
             this.lbIzquierda.TabIndex = 8;
             // 

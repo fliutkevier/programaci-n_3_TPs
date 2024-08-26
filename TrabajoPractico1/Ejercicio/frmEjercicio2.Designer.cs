@@ -129,6 +129,7 @@
             this.lbElementos.FormattingEnabled = true;
             this.lbElementos.Location = new System.Drawing.Point(22, 30);
             this.lbElementos.Name = "lbElementos";
+            this.lbElementos.SelectionMode = System.Windows.Forms.SelectionMode.MultiExtended;
             this.lbElementos.Size = new System.Drawing.Size(241, 329);
             this.lbElementos.Sorted = true;
             this.lbElementos.TabIndex = 0;

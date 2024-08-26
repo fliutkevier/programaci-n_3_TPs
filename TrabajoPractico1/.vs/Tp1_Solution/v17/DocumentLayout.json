@@ -1,38 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|c:\\users\\vicky\\downloads\\trabajopractico1.10\\trabajopractico1\\ejercicio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|c:\\users\\usuario\\desktop\\trabajopractico1.16\\trabajopractico1\\ejercicio\\frmejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\frmejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\ejercicio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\ejercicio\\frmejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\frmejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\ejercicio\\frmejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\frmejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\ejercicio\\frmejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\ejercicio\\frmejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\frmejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\ejercicio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\ejercicio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\ejercicio\\frmejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\ejercicio\\frmejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\frmejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\ejercicio\\frmejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\ejercicio\\frmejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\frmejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\ejercicio\\frmejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\frmejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\ejercicio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6BDBF50-6F61-4AC8-BDEE-582191A0BA41}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,101 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\Ejercicio\\Form1.cs",
-              "RelativeDocumentMoniker": "Ejercicio\\Form1.cs",
-              "ToolTip": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\Ejercicio\\Form1.cs",
-              "RelativeToolTip": "Ejercicio\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "frmEjercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\Ejercicio\\frmEjercicio2.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\frmEjercicio2.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\Ejercicio\\frmEjercicio2.cs",
+              "RelativeToolTip": "Ejercicio\\frmEjercicio2.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCwAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T13:40:03.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\Ejercicio\\Form1.cs",
-              "RelativeDocumentMoniker": "Ejercicio\\Form1.cs",
-              "ToolTip": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\Ejercicio\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Ejercicio\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T01:23:49.693Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\Ejercicio\\frmPrincipal.cs",
-              "RelativeDocumentMoniker": "Ejercicio\\frmPrincipal.cs",
-              "ToolTip": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.9\\TrabajoPractico1\\Ejercicio\\frmPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\TrabajoPractico1.9\\TrabajoPractico1\\Ejercicio\\frmPrincipal.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T16:39:09.829Z"
+              "WhenOpened": "2024-08-23T01:27:19.039Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frmEjercicio2.cs",
-              "DocumentMoniker": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\Ejercicio\\frmEjercicio2.cs",
-              "RelativeDocumentMoniker": "Ejercicio\\frmEjercicio2.cs",
-              "ToolTip": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\Ejercicio\\frmEjercicio2.cs",
-              "RelativeToolTip": "Ejercicio\\frmEjercicio2.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAcwBAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T21:40:50.61Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\Ejercicio\\frmPrincipal.cs",
-              "RelativeDocumentMoniker": "Ejercicio\\frmPrincipal.cs",
-              "ToolTip": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\Ejercicio\\frmPrincipal.cs",
-              "RelativeToolTip": "Ejercicio\\frmPrincipal.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAcwBsAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T16:39:18.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmEjercicio2.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\Ejercicio\\frmEjercicio2.cs",
-              "RelativeDocumentMoniker": "Ejercicio\\frmEjercicio2.cs",
-              "ToolTip": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.9\\TrabajoPractico1\\Ejercicio\\frmEjercicio2.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\TrabajoPractico1.9\\TrabajoPractico1\\Ejercicio\\frmEjercicio2.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T21:37:30.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "frmEjercicio1.cs",
-              "DocumentMoniker": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\Ejercicio\\frmEjercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\Ejercicio\\frmEjercicio1.cs",
               "RelativeDocumentMoniker": "Ejercicio\\frmEjercicio1.cs",
-              "ToolTip": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\Ejercicio\\frmEjercicio1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\Ejercicio\\frmEjercicio1.cs",
               "RelativeToolTip": "Ejercicio\\frmEjercicio1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T22:05:49.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "frmEjercicio3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\Ejercicio\\frmEjercicio3.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\frmEjercicio3.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\Ejercicio\\frmEjercicio3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio\\frmEjercicio3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:38:18.312Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmEjercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\Ejercicio\\frmEjercicio3.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\frmEjercicio3.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\Ejercicio\\frmEjercicio3.cs",
+              "RelativeToolTip": "Ejercicio\\frmEjercicio3.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:38:21.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmEjercicio2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\Ejercicio\\frmEjercicio2.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\frmEjercicio2.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\Ejercicio\\frmEjercicio2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio\\frmEjercicio2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:27:11.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "frmEjercicio1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.10\\TrabajoPractico1\\Ejercicio\\frmEjercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\Ejercicio\\frmEjercicio1.cs",
               "RelativeDocumentMoniker": "Ejercicio\\frmEjercicio1.cs",
-              "ToolTip": "C:\\Users\\vicky\\Downloads\\TrabajoPractico1.9\\TrabajoPractico1\\Ejercicio\\frmEjercicio1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\TrabajoPractico1.9\\TrabajoPractico1\\Ejercicio\\frmEjercicio1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Valen\\Desktop\\TrabajoPractico1\\Ejercicio\\frmEjercicio1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Valen\\Desktop\\TrabajoPractico1\\Ejercicio\\frmEjercicio1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T16:39:00.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.16\\TrabajoPractico1\\Ejercicio\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\TrabajoPractico1.13\\TrabajoPractico1\\Ejercicio\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\TrabajoPractico1.13\\TrabajoPractico1\\Ejercicio\\frmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:38:11.48Z"
             }
           ]
         }

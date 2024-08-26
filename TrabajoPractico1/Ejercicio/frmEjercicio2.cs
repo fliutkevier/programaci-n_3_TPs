@@ -39,9 +39,10 @@ namespace Ejercicio
                         existe = true;
                     }
                 }
+                    
                 if (!existe)
                 {
-                    lbElementos.Items.Add(tbxApellido.Text + ", " + tbxNombre.Text);
+                    lbElementos.Items.Add(tbxApellido.Text.Trim() + ", " + tbxNombre.Text.Trim());
                     LimpiarTextBox();
                 }
             }
@@ -61,20 +62,39 @@ namespace Ejercicio
                 MessageBox.Show("No ingresó Apellido", "Warning");
                 LimpiarTextBox();
             }
-
+           
             
         }
 
         private void btnBorrar_Click(object sender, EventArgs e)
         {
-            if (lbElementos.SelectedItem != null)
+            int cantElementos = lbElementos.Items.Count;
+
+            if (cantElementos!=0)
             {
-                lbElementos.Items.Remove(lbElementos.SelectedItem);
+                if (lbElementos.SelectedItem != null)
+                {
+                    ListBox.SelectedObjectCollection seleccionNombreCompleto = lbElementos.SelectedItems;
+
+                    while (seleccionNombreCompleto.Count > 0)
+                    {
+                        lbElementos.Items.Remove(seleccionNombreCompleto[0]);
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Debe seleccionar un elemento de la lista", "Warning");
+                }
+
             }
             else
             {
-                MessageBox.Show("Debe seleccionar el nombre a borrar", "Warning");
+                MessageBox.Show("No hay elementos cargados en la lista", "Warning");
             }
+
+            
+
+
         }
     }
 }

@@ -28,21 +28,37 @@ namespace Ejercicio
             //validación si esta vació el campo de texto.
             if(tbxNombre.Text.Trim() != string.Empty)
             {
+                
                 //reviso los elementos de la lista izquierda.
                 foreach (string nombre in lbIzquierda.Items)
                 {
+                    //valido que no haya espacios antes o despues para no repetir el nombre.
+                    nombre.Trim();
+                    nombre.TrimStart();
                     //valido si son iguales ambas cadenas (la cargada y las existentes) pasasandolas a minusculas.
-                    if(string.Equals(nombre.ToLower(), tbxNombre.Text.ToLower()))
+                    if (string.Equals(nombre.ToLower(), tbxNombre.Text.ToLower().Trim()))
+                    {
+                        MessageBox.Show("Este nombre ya existe en la lista, ingrese otro.", "Warning");
+                        existe = true;
+                    }
+                }
+                foreach (string nombre in lbDerecha.Items)
+                {
+                    //valido que no haya espacios antes o despues para no repetir el nombre.
+                    nombre.Trim();
+                    nombre.TrimStart();
+                    //valido si son iguales ambas cadenas (la cargada y las existentes) pasasandolas a minusculas.
+                    if (string.Equals(nombre.ToLower(), tbxNombre.Text.ToLower().Trim()))
                     {
                         MessageBox.Show("Este nombre ya existe en la lista, ingrese otro.", "Warning");
                         existe = true;
                     }
                 }
 
-                if(!existe)
+                if (!existe)
                 {
                     //si no existe en la lista, lo agrega.
-                    lbIzquierda.Items.Add(tbxNombre.Text);
+                    lbIzquierda.Items.Add(tbxNombre.Text.Trim());
                 }
             }
             else
@@ -54,16 +70,32 @@ namespace Ejercicio
 
         private void btnPasarNombre_Click(object sender, EventArgs e)
         {
-            if(lbIzquierda.SelectedItem != null)
+            int cantNombres=lbIzquierda.Items.Count;
+
+            if (cantNombres != 0)
             {
-                //Si se selecciona un nombre es pasado a la lista derecha y se elimina de la izquierda.
-                lbDerecha.Items.Add(lbIzquierda.SelectedItem);
-                lbIzquierda.Items.Remove(lbIzquierda.SelectedItem);
+                if (lbIzquierda.SelectedItem != null)
+                {
+                    ListBox.SelectedObjectCollection seleccionIzquierda = lbIzquierda.SelectedItems;
+
+                    while (seleccionIzquierda.Count > 0)
+                    {
+                        lbDerecha.Items.Add(lbIzquierda.SelectedItem);
+                        lbIzquierda.Items.Remove(seleccionIzquierda[0]);
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Debe seleccionar un nombre.", "Warning");
+                }
+
             }
-            else
+            else 
             {
-                MessageBox.Show("Debe seleccionar un nombre.", "Warning");
+                MessageBox.Show("No hay nombres cargados en la lista", "Warning");
             }
+
+            
         }
 
         private void btnPasarTodos_Click(object sender, EventArgs e)
