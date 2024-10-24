@@ -18,5 +18,17 @@ namespace Ejercicio
         {
 
         }
+
+        protected void btnCalcularPrecio_Click(object sender, EventArgs e)
+        {
+          
+                 decimal memoriaSeleccionada = Convert.ToDecimal(ddlMemoria.SelectedValue);
+                 decimal accesoriosSeleccionados = cblAccesorios.Items.Cast<ListItem>().Where(li => li.Selected).Sum(li => Convert.ToDecimal(li.Value));
+
+                 decimal precioFinal = memoriaSeleccionada + accesoriosSeleccionados;
+
+                 lblMensaje.Text = $"<strong>El precio final es: {precioFinal:C}</strong>";
+
+        }
     }
 }

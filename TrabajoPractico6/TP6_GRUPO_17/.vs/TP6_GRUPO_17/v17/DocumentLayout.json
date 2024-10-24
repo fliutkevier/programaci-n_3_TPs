@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E61A04A-8D24-4B96-B6D1-8E6E567CC300}|TP6_GRUPO_17\\TP6_GRUPO_17.csproj|E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\tp6_grupo_17\\seleccionarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E61A04A-8D24-4B96-B6D1-8E6E567CC300}|TP6_GRUPO_17\\TP6_GRUPO_17.csproj|solutionrelative:tp6_grupo_17\\seleccionarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E61A04A-8D24-4B96-B6D1-8E6E567CC300}|TP6_GRUPO_17\\TP6_GRUPO_17.csproj|E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\tp6_grupo_17\\seleccionarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8E61A04A-8D24-4B96-B6D1-8E6E567CC300}|TP6_GRUPO_17\\TP6_GRUPO_17.csproj|solutionrelative:tp6_grupo_17\\seleccionarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E61A04A-8D24-4B96-B6D1-8E6E567CC300}|TP6_GRUPO_17\\TP6_GRUPO_17.csproj|e:\\estudios\\progamacion 3\\tp6_grupo_17\\tp6_grupo_17\\ejercicio2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E61A04A-8D24-4B96-B6D1-8E6E567CC300}|TP6_GRUPO_17\\TP6_GRUPO_17.csproj|solutionrelative:tp6_grupo_17\\ejercicio2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E61A04A-8D24-4B96-B6D1-8E6E567CC300}|TP6_GRUPO_17\\TP6_GRUPO_17.csproj|e:\\estudios\\progamacion 3\\tp6_grupo_17\\tp6_grupo_17\\ejercicio1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E61A04A-8D24-4B96-B6D1-8E6E567CC300}|TP6_GRUPO_17\\TP6_GRUPO_17.csproj|solutionrelative:tp6_grupo_17\\ejercicio1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E61A04A-8D24-4B96-B6D1-8E6E567CC300}|TP6_GRUPO_17\\TP6_GRUPO_17.csproj|e:\\estudios\\progamacion 3\\tp6_grupo_17\\tp6_grupo_17\\ejercicio2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8E61A04A-8D24-4B96-B6D1-8E6E567CC300}|TP6_GRUPO_17\\TP6_GRUPO_17.csproj|solutionrelative:tp6_grupo_17\\ejercicio2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E61A04A-8D24-4B96-B6D1-8E6E567CC300}|TP6_GRUPO_17\\TP6_GRUPO_17.csproj|e:\\estudios\\progamacion 3\\tp6_grupo_17\\tp6_grupo_17\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E61A04A-8D24-4B96-B6D1-8E6E567CC300}|TP6_GRUPO_17\\TP6_GRUPO_17.csproj|solutionrelative:tp6_grupo_17\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E61A04A-8D24-4B96-B6D1-8E6E567CC300}|TP6_GRUPO_17\\TP6_GRUPO_17.csproj|E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\tp6_grupo_17\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8E61A04A-8D24-4B96-B6D1-8E6E567CC300}|TP6_GRUPO_17\\TP6_GRUPO_17.csproj|solutionrelative:tp6_grupo_17\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E61A04A-8D24-4B96-B6D1-8E6E567CC300}|TP6_GRUPO_17\\TP6_GRUPO_17.csproj|e:\\estudios\\progamacion 3\\tp6_grupo_17\\tp6_grupo_17\\mostrarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8E61A04A-8D24-4B96-B6D1-8E6E567CC300}|TP6_GRUPO_17\\TP6_GRUPO_17.csproj|solutionrelative:tp6_grupo_17\\mostrarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio1.aspx.cs",
+              "DocumentMoniker": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\TP6_GRUPO_17\\Ejercicio1.aspx.cs",
+              "RelativeDocumentMoniker": "TP6_GRUPO_17\\Ejercicio1.aspx.cs",
+              "ToolTip": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\TP6_GRUPO_17\\Ejercicio1.aspx.cs",
+              "RelativeToolTip": "TP6_GRUPO_17\\Ejercicio1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T23:22:55.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio2.aspx.cs",
+              "DocumentMoniker": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\TP6_GRUPO_17\\Ejercicio2.aspx.cs",
+              "RelativeDocumentMoniker": "TP6_GRUPO_17\\Ejercicio2.aspx.cs",
+              "ToolTip": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\TP6_GRUPO_17\\Ejercicio2.aspx.cs",
+              "RelativeToolTip": "TP6_GRUPO_17\\Ejercicio2.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T23:22:51.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicio2.aspx",
+              "DocumentMoniker": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\TP6_GRUPO_17\\Ejercicio2.aspx",
+              "RelativeDocumentMoniker": "TP6_GRUPO_17\\Ejercicio2.aspx",
+              "ToolTip": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\TP6_GRUPO_17\\Ejercicio2.aspx",
+              "RelativeToolTip": "TP6_GRUPO_17\\Ejercicio2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-07T23:22:47.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\TP6_GRUPO_17\\Datos.cs",
+              "RelativeDocumentMoniker": "TP6_GRUPO_17\\Datos.cs",
+              "ToolTip": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\TP6_GRUPO_17\\Datos.cs",
+              "RelativeToolTip": "TP6_GRUPO_17\\Datos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T23:22:34.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MostrarProductos.aspx",
+              "DocumentMoniker": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\TP6_GRUPO_17\\MostrarProductos.aspx",
+              "RelativeDocumentMoniker": "TP6_GRUPO_17\\MostrarProductos.aspx",
+              "ToolTip": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\TP6_GRUPO_17\\MostrarProductos.aspx",
+              "RelativeToolTip": "TP6_GRUPO_17\\MostrarProductos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-07T23:03:27.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeleccionarProductos.aspx",
+              "DocumentMoniker": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\TP6_GRUPO_17\\SeleccionarProductos.aspx",
+              "RelativeDocumentMoniker": "TP6_GRUPO_17\\SeleccionarProductos.aspx",
+              "ToolTip": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\TP6_GRUPO_17\\SeleccionarProductos.aspx",
+              "RelativeToolTip": "TP6_GRUPO_17\\SeleccionarProductos.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-07T19:39:30.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\TP6_GRUPO_17\\Inicio.aspx",
+              "RelativeDocumentMoniker": "TP6_GRUPO_17\\Inicio.aspx",
+              "ToolTip": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\TP6_GRUPO_17\\Inicio.aspx",
+              "RelativeToolTip": "TP6_GRUPO_17\\Inicio.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-07T03:25:49.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeleccionarProductos.aspx.cs",
+              "DocumentMoniker": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\TP6_GRUPO_17\\SeleccionarProductos.aspx.cs",
+              "RelativeDocumentMoniker": "TP6_GRUPO_17\\SeleccionarProductos.aspx.cs",
+              "ToolTip": "E:\\Estudios\\Progamacion 3\\TP6_GRUPO_17\\TP6_GRUPO_17\\SeleccionarProductos.aspx.cs",
+              "RelativeToolTip": "TP6_GRUPO_17\\SeleccionarProductos.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:43:18.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

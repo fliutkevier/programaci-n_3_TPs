@@ -53,7 +53,7 @@
         <tr>
             <td class="auto-style3"></td>
             <td class="auto-style3">
-                <asp:DropDownList ID="DropDownList1" runat="server">
+                <asp:DropDownList ID="ddlMemoria" runat="server">
                     <asp:ListItem Value="200">2 GB</asp:ListItem>
                     <asp:ListItem Value="375">4 GB</asp:ListItem>
                     <asp:ListItem Value="500">6 GB</asp:ListItem>
@@ -87,9 +87,9 @@
             <td>&nbsp;</td>
             <td>
                 <asp:CheckBoxList ID="cblAccesorios" runat="server" Height="34px" OnSelectedIndexChanged="CheckBoxList1_SelectedIndexChanged">
-                    <asp:ListItem>Monitor LCD</asp:ListItem>
-                    <asp:ListItem>HD 500GB</asp:ListItem>
-                    <asp:ListItem>Grabador DVD</asp:ListItem>
+                    <asp:ListItem Value="2000,50">Monitor LCD</asp:ListItem>
+                    <asp:ListItem Value="550,50">HD 500GB</asp:ListItem>
+                    <asp:ListItem Value="1200">Grabador DVD</asp:ListItem>
                 </asp:CheckBoxList>
             </td>
             <td>&nbsp;</td>
@@ -110,7 +110,7 @@
         <tr>
             <td>&nbsp;</td>
             <td>
-                <asp:Button ID="btnCalcularPrecio" runat="server" Text="Calcular precio" />
+                <asp:Button ID="btnCalcularPrecio" runat="server" Text="Calcular precio" OnClick="btnCalcularPrecio_Click" />
             </td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
@@ -130,6 +130,9 @@
     </table>
         <div>
         </div>
+        <p style="margin-left: 40px">
+            <asp:Label ID="lblMensaje" runat="server"></asp:Label>
+        </p>
     </form>
 </body>
 </html>

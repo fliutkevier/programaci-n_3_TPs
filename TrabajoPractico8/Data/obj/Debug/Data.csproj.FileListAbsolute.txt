@@ -1,0 +1,45 @@
+C:\Users\Valen\Desktop\TP8_GRUPO_17\Data\bin\Debug\Data.dll
+C:\Users\Valen\Desktop\TP8_GRUPO_17\Data\bin\Debug\Data.pdb
+C:\Users\Valen\Desktop\TP8_GRUPO_17\Data\bin\Debug\Entidades.dll
+C:\Users\Valen\Desktop\TP8_GRUPO_17\Data\bin\Debug\Entidades.pdb
+C:\Users\Valen\Desktop\TP8_GRUPO_17\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Valen\Desktop\TP8_GRUPO_17\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\TP8_GRUPO_17\Data\obj\Debug\Data.csproj.Up2Date
+C:\Users\Valen\Desktop\TP8_GRUPO_17\Data\obj\Debug\Data.dll
+C:\Users\Valen\Desktop\TP8_GRUPO_17\Data\obj\Debug\Data.pdb
+C:\Users\Fran\Desktop\TP8_GRUPO_17.3\TP8_GRUPO_17.2\TP8_GRUPO_17\Data\bin\Debug\Data.dll
+C:\Users\Fran\Desktop\TP8_GRUPO_17.3\TP8_GRUPO_17.2\TP8_GRUPO_17\Data\bin\Debug\Data.pdb
+C:\Users\Fran\Desktop\TP8_GRUPO_17.3\TP8_GRUPO_17.2\TP8_GRUPO_17\Data\bin\Debug\Entidades.dll
+C:\Users\Fran\Desktop\TP8_GRUPO_17.3\TP8_GRUPO_17.2\TP8_GRUPO_17\Data\bin\Debug\Entidades.pdb
+C:\Users\Fran\Desktop\TP8_GRUPO_17.3\TP8_GRUPO_17.2\TP8_GRUPO_17\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\TP8_GRUPO_17.3\TP8_GRUPO_17.2\TP8_GRUPO_17\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\TP8_GRUPO_17.3\TP8_GRUPO_17.2\TP8_GRUPO_17\Data\obj\Debug\Data.csproj.Up2Date
+C:\Users\Fran\Desktop\TP8_GRUPO_17.3\TP8_GRUPO_17.2\TP8_GRUPO_17\Data\obj\Debug\Data.dll
+C:\Users\Fran\Desktop\TP8_GRUPO_17.3\TP8_GRUPO_17.2\TP8_GRUPO_17\Data\obj\Debug\Data.pdb
+C:\Users\Usuario\Desktop\TP8_GRUPO_17\Data\bin\Debug\Data.dll
+C:\Users\Usuario\Desktop\TP8_GRUPO_17\Data\bin\Debug\Data.pdb
+C:\Users\Usuario\Desktop\TP8_GRUPO_17\Data\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\TP8_GRUPO_17\Data\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\TP8_GRUPO_17\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TP8_GRUPO_17\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP8_GRUPO_17\Data\obj\Debug\Data.csproj.Up2Date
+C:\Users\Usuario\Desktop\TP8_GRUPO_17\Data\obj\Debug\Data.dll
+C:\Users\Usuario\Desktop\TP8_GRUPO_17\Data\obj\Debug\Data.pdb
+E:\Estudios\Progamacion 3\TP8_GRUPO_17\Data\bin\Debug\Data.dll
+E:\Estudios\Progamacion 3\TP8_GRUPO_17\Data\bin\Debug\Data.pdb
+E:\Estudios\Progamacion 3\TP8_GRUPO_17\Data\bin\Debug\Entidades.dll
+E:\Estudios\Progamacion 3\TP8_GRUPO_17\Data\bin\Debug\Entidades.pdb
+E:\Estudios\Progamacion 3\TP8_GRUPO_17\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+E:\Estudios\Progamacion 3\TP8_GRUPO_17\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+E:\Estudios\Progamacion 3\TP8_GRUPO_17\Data\obj\Debug\Data.csproj.Up2Date
+E:\Estudios\Progamacion 3\TP8_GRUPO_17\Data\obj\Debug\Data.dll
+E:\Estudios\Progamacion 3\TP8_GRUPO_17\Data\obj\Debug\Data.pdb
+C:\Users\vicky\Downloads\TP8_GRUPO_17.19\TP8_GRUPO_17\Data\bin\Debug\Data.dll
+C:\Users\vicky\Downloads\TP8_GRUPO_17.19\TP8_GRUPO_17\Data\bin\Debug\Data.pdb
+C:\Users\vicky\Downloads\TP8_GRUPO_17.19\TP8_GRUPO_17\Data\bin\Debug\Entidades.dll
+C:\Users\vicky\Downloads\TP8_GRUPO_17.19\TP8_GRUPO_17\Data\bin\Debug\Entidades.pdb
+C:\Users\vicky\Downloads\TP8_GRUPO_17.19\TP8_GRUPO_17\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\vicky\Downloads\TP8_GRUPO_17.19\TP8_GRUPO_17\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\vicky\Downloads\TP8_GRUPO_17.19\TP8_GRUPO_17\Data\obj\Debug\Data.csproj.Up2Date
+C:\Users\vicky\Downloads\TP8_GRUPO_17.19\TP8_GRUPO_17\Data\obj\Debug\Data.dll
+C:\Users\vicky\Downloads\TP8_GRUPO_17.19\TP8_GRUPO_17\Data\obj\Debug\Data.pdb
