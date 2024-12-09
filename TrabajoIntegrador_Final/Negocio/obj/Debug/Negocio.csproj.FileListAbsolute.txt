@@ -1,0 +1,198 @@
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3.2\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3.2\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3.2\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3.2\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3.2\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3.2\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3.2\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3.2\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3.2\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3.2\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3.2\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.pdb
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.dll
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.pdb
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.dll
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.dll
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.pdb
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.pdb
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.dll
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_09\TPINT_GRUPO_17_PR3_09\Negocio\bin\Debug\Negocio.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_09\TPINT_GRUPO_17_PR3_09\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_09\TPINT_GRUPO_17_PR3_09\Negocio\bin\Debug\DAO.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_09\TPINT_GRUPO_17_PR3_09\Negocio\bin\Debug\Entidades.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_09\TPINT_GRUPO_17_PR3_09\Negocio\bin\Debug\DAO.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_09\TPINT_GRUPO_17_PR3_09\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_09\TPINT_GRUPO_17_PR3_09\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_09\TPINT_GRUPO_17_PR3_09\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_09\TPINT_GRUPO_17_PR3_09\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_09\TPINT_GRUPO_17_PR3_09\Negocio\obj\Debug\Negocio.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_09\TPINT_GRUPO_17_PR3_09\Negocio\obj\Debug\Negocio.pdb
+C:\Users\BIBLIOTECA 03\Downloads\files\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\BIBLIOTECA 03\Downloads\files\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\BIBLIOTECA 03\Downloads\files\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.dll
+C:\Users\BIBLIOTECA 03\Downloads\files\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\BIBLIOTECA 03\Downloads\files\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.pdb
+C:\Users\BIBLIOTECA 03\Downloads\files\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\BIBLIOTECA 03\Downloads\files\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\BIBLIOTECA 03\Downloads\files\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\BIBLIOTECA 03\Downloads\files\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\BIBLIOTECA 03\Downloads\files\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\BIBLIOTECA 03\Downloads\files\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3_12\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.dll
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.pdb
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.pdb
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.dll
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.pdb
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.dll
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.dll
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.pdb
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.pdb
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.dll
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Franco\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Franco\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Franco\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.dll
+C:\Users\Franco\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.pdb
+C:\Users\Franco\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Franco\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Franco\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Valen\Desktop\finalv2\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Valen\Desktop\finalv2\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\finalv2\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Valen\Desktop\finalv2\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Valen\Desktop\finalv2\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Valen\Desktop\finalv2\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Valen\Desktop\finalv2\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.dll
+C:\Users\Valen\Desktop\finalv2\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Valen\Desktop\finalv2\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.pdb
+C:\Users\Valen\Desktop\finalv2\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Valen\Desktop\finalv2\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\floor\OneDrive\Escritorio\SHAN\UTN\Programación 3\INTEGRADOR\vscode\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\floor\OneDrive\Escritorio\SHAN\UTN\Programación 3\INTEGRADOR\vscode\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\floor\OneDrive\Escritorio\SHAN\UTN\Programación 3\INTEGRADOR\vscode\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.dll
+C:\Users\floor\OneDrive\Escritorio\SHAN\UTN\Programación 3\INTEGRADOR\vscode\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\floor\OneDrive\Escritorio\SHAN\UTN\Programación 3\INTEGRADOR\vscode\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.pdb
+C:\Users\floor\OneDrive\Escritorio\SHAN\UTN\Programación 3\INTEGRADOR\vscode\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\floor\OneDrive\Escritorio\SHAN\UTN\Programación 3\INTEGRADOR\vscode\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\floor\OneDrive\Escritorio\SHAN\UTN\Programación 3\INTEGRADOR\vscode\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\floor\OneDrive\Escritorio\SHAN\UTN\Programación 3\INTEGRADOR\vscode\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\floor\OneDrive\Escritorio\SHAN\UTN\Programación 3\INTEGRADOR\vscode\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\floor\OneDrive\Escritorio\SHAN\UTN\Programación 3\INTEGRADOR\vscode\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\vicky\Downloads\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\vicky\Downloads\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\vicky\Downloads\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.dll
+C:\Users\vicky\Downloads\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\vicky\Downloads\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.pdb
+C:\Users\vicky\Downloads\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\vicky\Downloads\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\vicky\Downloads\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\vicky\Downloads\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\vicky\Downloads\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\vicky\Downloads\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.pdb
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3_MIO\Negocio\bin\Debug\Negocio.dll
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3_MIO\Negocio\bin\Debug\Negocio.pdb
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3_MIO\Negocio\bin\Debug\DAO.dll
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3_MIO\Negocio\bin\Debug\Entidades.dll
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3_MIO\Negocio\bin\Debug\DAO.pdb
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3_MIO\Negocio\bin\Debug\Entidades.pdb
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3_MIO\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3_MIO\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3_MIO\Negocio\obj\Debug\Negocio.csproj.Up2Date
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3_MIO\Negocio\obj\Debug\Negocio.dll
+E:\Estudios\Progamacion 3\Trabajo Practico INTEGRADOR\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3_MIO\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Valen\Desktop\finalv3\TPINT_GRUPO_17_PR3_MIO\Negocio\bin\Debug\Negocio.dll
+C:\Users\Valen\Desktop\finalv3\TPINT_GRUPO_17_PR3_MIO\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Valen\Desktop\finalv3\TPINT_GRUPO_17_PR3_MIO\Negocio\bin\Debug\DAO.dll
+C:\Users\Valen\Desktop\finalv3\TPINT_GRUPO_17_PR3_MIO\Negocio\bin\Debug\Entidades.dll
+C:\Users\Valen\Desktop\finalv3\TPINT_GRUPO_17_PR3_MIO\Negocio\bin\Debug\DAO.pdb
+C:\Users\Valen\Desktop\finalv3\TPINT_GRUPO_17_PR3_MIO\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Valen\Desktop\finalv3\TPINT_GRUPO_17_PR3_MIO\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Valen\Desktop\finalv3\TPINT_GRUPO_17_PR3_MIO\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\finalv3\TPINT_GRUPO_17_PR3_MIO\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Valen\Desktop\finalv3\TPINT_GRUPO_17_PR3_MIO\Negocio\obj\Debug\Negocio.dll
+C:\Users\Valen\Desktop\finalv3\TPINT_GRUPO_17_PR3_MIO\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.dll
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.pdb
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Valen\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR32\TPINT_GRUPO_17_PR3 (3)\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR32\TPINT_GRUPO_17_PR3 (3)\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR32\TPINT_GRUPO_17_PR3 (3)\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR32\TPINT_GRUPO_17_PR3 (3)\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR32\TPINT_GRUPO_17_PR3 (3)\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR32\TPINT_GRUPO_17_PR3 (3)\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR32\TPINT_GRUPO_17_PR3 (3)\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR32\TPINT_GRUPO_17_PR3 (3)\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR32\TPINT_GRUPO_17_PR3 (3)\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR32\TPINT_GRUPO_17_PR3 (3)\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Fran\Desktop\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR32\TPINT_GRUPO_17_PR3 (3)\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Valen\Desktop\Final_uptodate\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Valen\Desktop\Final_uptodate\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Valen\Desktop\Final_uptodate\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.dll
+C:\Users\Valen\Desktop\Final_uptodate\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Valen\Desktop\Final_uptodate\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.pdb
+C:\Users\Valen\Desktop\Final_uptodate\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Valen\Desktop\Final_uptodate\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Valen\Desktop\Final_uptodate\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Desktop\Final_uptodate\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Valen\Desktop\Final_uptodate\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Valen\Desktop\Final_uptodate\TPINT_GRUPO_17_PR3\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Fran\Desktop\ultimo\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Fran\Desktop\ultimo\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Fran\Desktop\ultimo\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.dll
+C:\Users\Fran\Desktop\ultimo\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Fran\Desktop\ultimo\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\DAO.pdb
+C:\Users\Fran\Desktop\ultimo\TPINT_GRUPO_17_PR3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Fran\Desktop\ultimo\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\ultimo\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\ultimo\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Fran\Desktop\ultimo\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Fran\Desktop\ultimo\TPINT_GRUPO_17_PR3\Negocio\obj\Debug\Negocio.pdb
